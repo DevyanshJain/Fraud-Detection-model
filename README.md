@@ -45,14 +45,14 @@ Confusion matrices and ROC curves were generated to visualize performance.
 git clone https://github.com/your-username/fraud-detection.git
 cd fraud-detection
 ```
+### 2. Install Requirements
 ```bash
 pip install -r requirements.txt
 ```
 
+### 3. Run Jupyter Notbook
 ```bash
-pip install -r requirements.txt
+jupyter notebook
 ```
-
-Run Jupyter Notebook 
 
 ## 📅 Last updated: 2024-05-11
