@@ -37,6 +37,13 @@ Confusion matrices and ROC curves were generated to visualize performance.
 
 ---
 
+## 🧾 Confusion Matrix
+
+![Confusion Matrix](FraudDetection.png)
+
+
+---
+
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
